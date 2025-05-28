@@ -1,6 +1,12 @@
 <h1 align="left">Hey there! I'm Jithu Morrison S 👋</h1>
 
 ###
+<h3 align="center">Developer on a mission to turn ideas into impactful code</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=500&width=240&typing_speed=1000&lines=Fullstack+Dev;Mobile+App+Dev;Unity+Game+Dev;AI+and+ML+Enthusiast;Open+to+Collaborate" alt="Typing SVG" />
+</p>
+
+###
 
 <h2 align="left">About me 💫</h2>
 
